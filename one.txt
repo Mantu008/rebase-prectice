@@ -1,4 +1,6 @@
 line one
 line 2
 Name : Mantu Kumar Morya
-Comp : Simform Solutions Ahmdebad
+Comp : Simform Solutions, Ahmdebad, India
+Department : React Full Stack Devloper
+Internship Period : 6 months
